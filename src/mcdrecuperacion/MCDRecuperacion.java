@@ -16,7 +16,7 @@ import java.io.InputStreamReader;
 public class MCDRecuperacion {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line argu
      */
     public static void main(String[] args) {
            int numero1, numero2;
